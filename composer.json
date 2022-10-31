@@ -39,7 +39,6 @@
     "conflict": {
         "symfony/http-client": "<5.2",
         "guzzlehttp/ringphp": "<1.1.1",
-        "guzzlehttp/guzzle": "<7.0",
         "aws/aws-sdk-php": "3.209.31 || 3.210.0",
         "phpseclib/phpseclib": "3.0.15"
     },
